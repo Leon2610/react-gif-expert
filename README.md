@@ -1,5 +1,6 @@
 # GifExpertApp
 
+![Demo](./public/GifExpertApp.gif)
 
 ## To execute the project:
 
