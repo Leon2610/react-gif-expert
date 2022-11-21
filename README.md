@@ -8,7 +8,9 @@
 - ```cd react-gif-expert/```
 - ```npm install```
 - ```npm run dev```
-- ```Open the terminal link```
+- Open the terminal link
+
+You can see the link of the project [here](https://gif-expert-leodev.netlify.app/) 
 
 What I learned:
 
